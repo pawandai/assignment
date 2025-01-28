@@ -21,7 +21,7 @@
 
 ## Live Demo
 
-[Profile](https://react-playground-gold-three.vercel.app/)
+[Live Demo](https://react-playground-gold-three.vercel.app/)
 
 ---
 
