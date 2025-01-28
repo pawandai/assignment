@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 100%;
+  --foreground: 222.2 84% 4.9%;
+}
+
+body {
+  background-color: #1e2024;
+  color: #abb2bf;
+}
+
+.cm-editor {
+  height: 100%;
+}
+
+.cm-editor .cm-scroller {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-size: 14px;
+}
+
+.cm-editor .cm-gutters {
+  background-color: #1e2024;
+  border-right: 1px solid #2c313c;
+  color: #5c6370;
+}
+
+.cm-editor .cm-activeLineGutter {
+  background-color: #2c313c;
+}
