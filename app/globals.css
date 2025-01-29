@@ -30,3 +30,11 @@ body {
 .cm-editor .cm-activeLineGutter {
   background-color: #2c313c;
 }
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+::-webkit-scrollbar-thumb {
+  display: none;
+}
