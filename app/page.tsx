@@ -233,7 +233,7 @@ export default function Home() {
           </div>
           <div
             ref={terminalRef}
-            className="h-56 bg-black w-full overflow-auto"
+            className="h-56 bg-black w-full overflow-auto p-2"
           />
         </div>
       </div>
